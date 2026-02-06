@@ -1,0 +1,6 @@
+- Edit `react-blank.php` for adding fonts.
+- Put your built files (HTML, favicon, assets folder etc.) into the dist folder.
+- Zip react-site.php, react-blank.php and the build folder.
+- Upload it to the wordpress as a custom extension.
+- Create a page on wordpress and add this plain text as a code `[react_app]`, this will enable wordpress to utilize our custom extension for that exact page.
+- Publish your page and you are good to go
